@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-ing.iml" filepath="$PROJECT_DIR$/code-ing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-boot-code/lab-boot-code.iml" filepath="$PROJECT_DIR$/lab-boot-code/lab-boot-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-cloud-code/lab-cloud-code.iml" filepath="$PROJECT_DIR$/lab-cloud-code/lab-cloud-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-data-structure/lab-data-structure.iml" filepath="$PROJECT_DIR$/lab-data-structure/lab-data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-design-patterns-code/lab-design-patterns-code.iml" filepath="$PROJECT_DIR$/lab-design-patterns-code/lab-design-patterns-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-jdk-code/lab-jdk-code.iml" filepath="$PROJECT_DIR$/lab-jdk-code/lab-jdk-code.iml" />
+    </modules>
+  </component>
+</project>

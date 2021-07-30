@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cloud-code-server
+
+server:
+  port: 7777

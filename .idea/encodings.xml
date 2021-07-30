@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/lab-boot-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-boot-code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-cloud-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-cloud-code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-data-structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-data-structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-design-patterns-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-design-patterns-code/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-jdk-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab-jdk-code/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
